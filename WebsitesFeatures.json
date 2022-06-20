@@ -1,5 +1,16 @@
 {
-  "boulanger": [
-    "c/tous-les-ordinateurs-portables"
-  ]
+  "boulanger":
+    {
+      "c/tous-les-ordinateurs-portables": {
+        "brand": "brand~",
+        "screen_size": "nouvelles_facettes_ordinateurs_____taille_de_l_ecran~",
+        "cpu": "points_comparateurs_____processeur~",
+        "ram": "nouvelles_facettes_ordinateurs_____memoire_vive~",
+        "hdd": "nouvelles_facettes_ordinateurs_____capacite_disque_dur~",
+        "ssd": "nouvelles_facettes_ordinateurs_____stockage~",
+        "os": "nouvelles_facettes_ordinateurs_____systeme_d_exploitation~",
+        "battery": "nouvelles_facettes_ordinateurs_____autonomie~"
+      }
+
+    }
 }
